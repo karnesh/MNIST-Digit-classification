@@ -1,1 +1,1 @@
-Digit classification using convolutional neural network.
+Digit classification using MNIST dataset using deep learning (convolutional neural network).
